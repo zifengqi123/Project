@@ -1,0 +1,20 @@
+//
+//  Setting.pch
+//  Demo
+//
+//  Created by guofeixu on 16/5/9.
+//  Copyright © 2016年 guofeixu. All rights reserved.
+//
+
+#ifndef Setting_pch
+#define Setting_pch
+
+#import "hm_sdk.h"
+#import "define.h"
+#import "HMNodeObject.h"
+#import "HMChannelObject.h"
+#import "HMAudioPlayer.h"
+#import "HMAudioRecorder.h"
+#import "HMRecordVideoObject.h"
+
+#endif /* Setting_pch */
